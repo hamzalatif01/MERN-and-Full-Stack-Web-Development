@@ -1,0 +1,2 @@
+# MERN-and-Full-Stack-Web-Development
+MERN and Full Stack Web Development This book is a practical guide to mastering full stack web development using the MERN stack — MongoDB, Express.js, React.js, and Node.js. It covers everything from building dynamic front-end interfaces to creating powerful back-end servers and databases. Perfect for beginners and intermediate developers, the book explains key concepts clearly and walks you through real-world projects, preparing you to develop complete, scalable web applications from scratch.
